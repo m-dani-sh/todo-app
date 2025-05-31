@@ -43,7 +43,7 @@ if "tasks" not in st.session_state:
 
 # ------------- UI ------------- #
 
-st.title("📅 Enhanced To-Do List")
+st.title("📅 To-Do List")
 
 # Add New Task
 with st.expander("➕ Add New Task"):
